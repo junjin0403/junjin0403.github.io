@@ -128,7 +128,7 @@ body {
 
 #bg-txt-container {
   position: fixed;
-  width: 100vw;
+  width: 100%;
   overflow: hidden;
   background-color: transparent;
   top: 50%;
